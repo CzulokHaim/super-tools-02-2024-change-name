@@ -8,6 +8,7 @@
 
 asdasdasdasdasd
 v12.2
+assss
 
 [aComposer](https://getcomposer.org/) plugin for [Repman - PHP Repository Manager](https://repman.io/proxy). Add mirror url for all your dependencies without need to update `composer.lock` file.
 
