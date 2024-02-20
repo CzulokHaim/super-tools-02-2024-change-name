@@ -6,6 +6,9 @@
 
 **WIP: currently being developed, do not use on production**
 
+asdasdasdasdasd
+v12.2
+
 [aComposer](https://getcomposer.org/) plugin for [Repman - PHP Repository Manager](https://repman.io/proxy). Add mirror url for all your dependencies without need to update `composer.lock` file.
 
 ## Usage
