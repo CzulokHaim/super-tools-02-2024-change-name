@@ -1,5 +1,5 @@
 {
-    "name": "czuli/super-tools-new-org",
+    "name": "czuli/super-tools-02-2024-change-name",
     "description": "Krótki opis Twojego projektu",
     "type": "project",
     "require": {
@@ -20,7 +20,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Czuli\\SuperToolsNewORG2024\\": "src/"
+            "Czuli\\SuperToolsNewORG17102024\\": "src/"
         }
     },
     "minimum-stability": "stable",

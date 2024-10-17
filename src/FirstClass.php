@@ -1,6 +1,6 @@
 <?php
 
-namespace Czuli\SuperToolsNewORG2024;
+namespace Czuli\SuperToolsNewORG17102024;
 
 class FirstClass
 {
